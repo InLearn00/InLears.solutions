@@ -592,7 +592,7 @@ ul.sign li a i {
 
 .titlepage h2 {
      font-size: 36px;
-     color: #e23c00;
+     color: #fe9600;
      line-height: 45px;
      font-weight: bold;
      padding: 0;
@@ -601,11 +601,9 @@ ul.sign li a i {
 }
 
 .yellow {
-     color: #f2db18;
-     font-size: 17px;
-     font-weight: bold;
-     text-transform: uppercase;
-     line-height: 28px;
+     color: #226e9d;
+     
+     
 }
 
 .titlepage p {
