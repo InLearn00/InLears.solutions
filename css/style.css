@@ -642,12 +642,17 @@ ul.sign li a i {
      right: -111px;
 }
 
+.isologofotter {
+     padding-top: 25px;
+     line-height: 30px;
+     width: 250px;
+}
 
 /** about section **/
 
 .about {
      padding-top: 90px;
-     background-color: #b2b1ac;
+     background-color: #ffffff;
 }
 
 .about .titlepage {
