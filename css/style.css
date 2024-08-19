@@ -567,7 +567,7 @@ ul.sign li a i {
      position: absolute;
      content: "";
      top: 3px;
-     border-right: #ffff00 solid 1px;
+     border-right: #00d9ff solid 1px;
      border-width: 90px;
      height: 1px;
      right: -111px;
@@ -592,7 +592,7 @@ ul.sign li a i {
 
 .titlepage h2 {
      font-size: 36px;
-     color: #159249;
+     color: #e23c00;
      line-height: 45px;
      font-weight: bold;
      padding: 0;
@@ -649,7 +649,7 @@ ul.sign li a i {
 
 .about {
      padding-top: 90px;
-     background-color: #fff;
+     background-color: #b2b1ac;
 }
 
 .about .titlepage {
@@ -677,7 +677,7 @@ ul.sign li a i {
 }
 
 .about_box h3 {
-     color: #0b0b0b;
+     color: #081621;
      font-size: 25px;
      font-weight: bold;
      padding: 0;
@@ -688,7 +688,7 @@ ul.sign li a i {
 .about_box span {
      font-size: 17px;
      font-weight: 600;
-     color: #f2db18;
+     color: #226e9d;
      line-height: 30px;
      padding-top: 25px;
      text-transform: uppercase;
@@ -704,7 +704,7 @@ ul.sign li a i {
      padding-top: 25px;
      line-height: 30px;
      text-align: left;
-     color: #0d0d0d;
+     color: #081621;
      display: inline-block;
      padding-bottom: 30px;
 }
@@ -717,13 +717,13 @@ ul.sign li a i {
      margin-top: 7px;
      padding: 8px 0;
      margin-left: 40px;
-     background-color: #f2db18;
+     background-color: #fe9600;
      max-width: 168px;
      width: 100%;
      display: inline-block;
      text-align: center;
      font-size: 18px;
-     color: #fff;
+     color: #ffffff;
      font-weight: 600;
 }
 
